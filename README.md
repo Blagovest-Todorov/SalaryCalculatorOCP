@@ -1,0 +1,2 @@
+# SalaryCalculatorOCP
+simpleExample OCP
